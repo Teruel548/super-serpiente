@@ -1,0 +1,31 @@
+{
+  "name": "SUPER SERPIENTE",
+  "short_name": "Super Serpiente",
+  "description": "Aventura de 10 niveles con dos desafíos estelares y evolución. Juego offline.",
+  "start_url": "./",
+  "id": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "landscape",
+  "theme_color": "#4b260c",
+  "background_color": "#100b16",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
